@@ -1,0 +1,25 @@
+body
+{
+    background-color: #dfdfde;
+}
+
+h1
+{ color: black;
+    background-color: grey;
+}
+h3
+{
+    color: #694e4e;
+}
+
+
+hr
+{ height: 2px;
+
+    border-style: none;
+     border-color: grey;
+       border-top-style: dotted;
+}
+img {
+  background-color: #dfdfde;
+}
